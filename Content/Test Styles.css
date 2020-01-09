@@ -1,0 +1,21 @@
+﻿/*<meta />*/
+
+h1.test
+{
+	color: pink;
+}
+
+h2.test
+{
+	color: red;
+}
+
+h3.test
+{
+	color: blue;
+}
+
+li.tree-node-leaf
+{
+	display: none !important;
+}
