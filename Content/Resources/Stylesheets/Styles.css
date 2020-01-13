@@ -103,3 +103,20 @@ li.tree-node-leaf
 	display: none !important;
 }
 
+tr.red
+{
+	background-color: red;
+}
+
+p.a
+{
+	mc-auto-number-format: '-   ';
+	mc-auto-number-position: outside-head;
+}
+
+p.a2
+{
+	mc-auto-number-format: '-   ';
+	mc-auto-number-position: outside-head;
+}
+
