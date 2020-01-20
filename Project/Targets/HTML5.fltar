@@ -12,7 +12,8 @@
   TargetLanguage="en-us"
   DefaultUrl="/Content/Topic.htm"
   MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
-  Skin="/Project/Skins/HTML5 - Side Navigation.flskn">
+  Skin="/Project/Skins/HTML5 - Side Navigation.flskn"
+  MasterPage="/Content/Resources/PageLayouts/NewPage.flmsp">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

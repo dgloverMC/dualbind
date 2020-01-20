@@ -7,6 +7,6 @@
         <MadCap:searchBarProxy data-mc-skin="/Project/Skins/NewSkin.flskn" id="test" />
         <MadCap:bodyProxy />
         <MadCap:miniTocProxy />
-        <MadCap:topicToolbarProxy class="" style="mc-topic-toolbar-items: ;" />
+        <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" />
     </body>
 </html>

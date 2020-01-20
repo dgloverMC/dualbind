@@ -16,28 +16,28 @@
   DeleteStale="false"
   DeleteUnreferenced="false"
   AutoSync="true"
-  LastImport="2020-01-16T13:55:39.0296186-06:00">
+  LastImport="2020-01-16T14:23:49.2858854-06:00">
   <Files>
     <Url
-      Source="file:///C:/Users/dglover/Documents/My Projects/bugtester2/bugtester2.flprj"
-      AbsoluteSource="file:///C:/Users/dglover/Documents/My Projects/bugtester2/bugtester2.flprj" />
+      Source="..\..\..\bugtester2\bugtester2.flprj"
+      AbsoluteSource="..\..\..\bugtester2\bugtester2.flprj" />
   </Files>
   <ExcludedFiles />
   <CollectedSourceFiles>
     <Url
-      Source="../bugtester2/Content/Topic.htm"
+      Source="../../../bugtester2/Content/Topic.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/My Projects/bugtester2/Content/Topic.htm" />
     <Url
-      Source="../bugtester2/Content/A_Introduction Topics/Getting Started.htm"
+      Source="../../../bugtester2/Content/A_Introduction Topics/Getting Started.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/My Projects/bugtester2/Content/A_Introduction Topics/Getting Started.htm" />
   </CollectedSourceFiles>
   <SkippedSourceFiles />
   <GeneratedFiles>
     <Url
-      Source="Content/Topic.htm"
+      Source="../../Content/Topic.htm"
       TimeStamp="1/16/2020 9:20:02 AM" />
     <Url
-      Source="Content/A_Introduction Topics/Getting Started.htm"
+      Source="../../Content/A_Introduction Topics/Getting Started.htm"
       TimeStamp="1/14/2020 1:31:46 PM" />
   </GeneratedFiles>
 </CatapultProject>
